@@ -1,5 +1,4 @@
 # readme_file1
-#This is a read me file
 ## for devops
 ### ET0735
 
